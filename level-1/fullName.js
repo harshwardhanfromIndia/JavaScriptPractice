@@ -9,4 +9,4 @@ function whatIsMyName() {
 }
 
 // Test
-whatIsMyName();
+console.log(whatIsMyName());
